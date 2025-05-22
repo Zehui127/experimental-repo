@@ -179,7 +179,7 @@ python scripts/dna_2_text.py --output_path current_working_dir
 
 ## Note on Model & Data Availability
 
-Due to the NeurIPS anonymity policy and institutional data-sharing restrictions, we are **unable to release certain pretrained model checkpoints and datasets** at this time. Additionally, all source code has undergone a **sanitization process** to remove sensitive identifiers, including usernames, internal paths, and organizational references.
+Due to the anonymity policy and institutional data-sharing restrictions, we are **unable to release certain pretrained model checkpoints and datasets** at this time. Additionally, all source code has undergone a **sanitization process** to remove sensitive identifiers, including usernames, internal paths, and organizational references.
 
 As a result, **some scripts may not run directly out-of-the-box** without user-provided replacements or minor modifications. This includes restoring model paths, dataset locations, or environment-specific configurations.
 
