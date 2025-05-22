@@ -1,0 +1,7 @@
+trl==0.13
+transformers
+datasets
+
+torchvision
+matplotlib
+pytorch_lightning
